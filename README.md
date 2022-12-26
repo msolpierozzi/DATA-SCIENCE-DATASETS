@@ -1,6 +1,5 @@
 <body>
     <h1>DATASET Referidos</h1>
-    <h1></h1>
     <p>
         El dataset seleccionado para analizar, esta compuesto por los referidos
         de un Sistema que otorga Créditos Personales a una población que no sería
@@ -21,7 +20,6 @@
         nos permitirá atraer una mejor población para incrementar la otorgacion y disminuir
         la mora. En este caso, quisiéramos resolver las siguientes interrogantes:
     </p>
-
     <ul>
         <li>
             ¿Cuál es el monto máximo otorgado? ¿Y el mínimo?
