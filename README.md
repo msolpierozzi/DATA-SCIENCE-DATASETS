@@ -1,5 +1,5 @@
 <body>
-    <h1>DATASET Referidos</h1>
+    <h1>DATASET REFERIDOS</h1>
     <p>
         El dataset seleccionado para analizar, esta compuesto por los referidos
         de un Sistema que otorga Créditos Personales a una población que no sería
@@ -42,4 +42,29 @@
             ¿Existe una diferencia significativa entre los puntajes?
         </li>
     </ul>
+    <hr>
+    <h2>DEFINICIÓN DEL OBJETIVO</h2>
+    <p>El objetivo principal de nuestro análisis es identificar los rasgos de los
+        referidos que posiblemente serán aprobados por el motor para así poder tomar
+        acciones por ej: campañas de publicidad para poder atraer a ese grupo poblacional.
+    </p>
+    <hr>
+    <h2>CONTEXTO COMERCIAL</h2>
+    <p>En el sistema, los clientes pueden provenir de dos fuentes. Por un lado, se
+        encuentran aquellos que inician una solicitud directamente desde la web y,
+        por el otro se encuentran los Referidos. Estos últimos, son una fuente fundamental
+        para el ingreso de clientes puesto que proveen información sobre clientes potenciales
+        (podrán ser aprobados o rechazados). En este caso, nos centraremos únicamente en el
+        funcionamiento de los referidos. Por ello, es importante analizar los rasgos que
+        identifican al sector que finalmente es apto para recibir un crédito. De esta manera,
+        será posible presentar los resultados obtenidos a los Referidos y así poder tomar
+        acciones preventivas para incrementar el número de referidos exitosos.
+    </p>
+    <hr>
+    <h2>CONTEXTO ANALÍTICO</h2>
+    <p>El equipo de riesgos ha recibido datos sobre los últimos 2000 referidos recibidos
+        el 30 de Agosto. Los mismos, identifican mediante la variable approved si han sido o
+        no aprobados respectivamente. Debemos utilizar modelos de agrupamiento para abordar
+        este problema de aprendizaje no supervisado.
+    </p>
 </body>
